@@ -1,4 +1,4 @@
-const apiUrl = `https://images-api.nasa.gov/search?q=supernova&media_type=image`;
+const apiUrl = `https://images-api.nasa.gov/search?q=nebula&media_type=image`;
 
 fetch(apiUrl)
   .then((response) => response.json())
