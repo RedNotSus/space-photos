@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://movies.ch3n.cc">
-    <img src="https://raw.githubusercontent.com/RedNotSus/gms-movies/refs/heads/main/img/logo.png" alt="Logo">
+    <img src="https://raw.githubusercontent.com/RedNotSus/space-photos/refs/heads/main/assets/logo.png" alt="Logo">
   </a>
 
 <h3 align="center">Space Photos</h3>
@@ -51,7 +51,7 @@
 
 ## About The Project
 
-This is a really easy way to watch your favorite movies and tv shows for free. It's a simple website that uses a few APIs to get the data and then displays it in a nice way.
+Space Photos is a simple web app that allows you to view the best space photos directly from NASA. The app is built using the NASA API and is fully responsive.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -111,8 +111,8 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
-<a href="https://github.com/rednotsus/gms-movies/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=rednotsus/gms-movies" alt="contrib.rocks image" />
+<a href="https://github.com/rednotsus/space-photos/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=rednotsus/space-photos" alt="contrib.rocks image" />
 </a>
 
 <!-- LICENSE -->
