@@ -85,3 +85,17 @@ body {
 .opacity-low {
   opacity: 0.5;
 }
+
+.search {
+  text-align: center;
+  padding: 20px;
+  border-radius: 10px;
+  width: 60vw;
+  border: none;
+  background-color: #2c2f33;
+  color: white;
+}
+
+.search:focus {
+  outline: none;
+}
