@@ -85,7 +85,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Roadmap
 
-- [ ] Search
+- [ x ] Search
 - [ ] Popular tab
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
