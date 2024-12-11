@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://movies.ch3n.cc">
+  <a href="https://viewsof.space/">
     <img src="https://raw.githubusercontent.com/RedNotSus/space-photos/refs/heads/main/assets/logo.png" alt="Logo">
   </a>
 
@@ -13,7 +13,7 @@
     View the best space photos directly from NASA
     <br />
     <br />
-    <a href="mhttps://viewsof.space/">View Demo</a>
+    <a href="https://viewsof.space/">View Demo</a>
     ·
     <a href="https://github.com/RedNotSus/space-photos/issues">Report Bug</a>
     ·
